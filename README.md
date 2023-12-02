@@ -26,9 +26,3 @@
 - M친톡
    - 작성중
 
-
-<div align=center>
-   
-   [![방문수](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkisa002)](https://hits.seeyoufarm.com) 	
-   
-</div>
