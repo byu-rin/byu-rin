@@ -24,5 +24,6 @@
 
 # 프로젝트
 - M친톡
-   - 작성중
-
+  - https://github.com/byu-rin/MBTI_Talk.git
+- Miseya
+  - https://github.com/byu-rin/Miseya.git
