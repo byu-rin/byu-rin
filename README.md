@@ -11,7 +11,7 @@
 - 🤖 Android
    - Main
       - `메인으로 사용하고 있는 기술이에요.`
-      - Kotlin, MVC, Retrofit, View/Data Binding(one/two way), Glide, 
+      - Kotlin, MVC, Retrofit, View/Data Binding(one/two way), Glide, Spinner
    - Deprecated
       - `공부중인 기술이에요.`
       - MVVM, Room, Hilt, Koin, Jetpack Compose, Coroutine + Flow
