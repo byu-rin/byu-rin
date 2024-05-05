@@ -101,7 +101,7 @@
 > Foursquare API<br/>
 > Observer Pattern...[더보기](https://github.com/byu-rin/pinpin_day)
 
-<br/>
+<br/><br/>
 
 ## 2. [MBTI 톡](https://github.com/byu-rin/MBTI_Talk)
 > ### MBTI 기반 커뮤니케이션 서비스
@@ -113,7 +113,7 @@
 > Glide<br/>
 > Firebase...[더보기](https://github.com/byu-rin/MBTI_Talk)
 
-<br/>
+<br/><br/>
 
 ## 3. [Miseya](https://github.com/byu-rin/Miseya)
 > ### 선택 지역의 미세먼지 수치, 등급 알림 서비스
