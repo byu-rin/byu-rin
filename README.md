@@ -101,14 +101,17 @@
 
 <br/>
 
-## 3. Miseya
+## 3. [Miseya](https://github.com/byu-rin/Miseya)
 > ### 선택 지역의 미세먼지 수치, 등급 알림 서비스
-> 23.09 ~ 23.09 (리팩토링 중)
+> 23.09 ~ 23.09 (리팩토링 중)<br/>
 
-<br/>
+<img width="110" alt="Screenshot 2024-05-05 at 9 33 00 PM" src="https://github.com/byu-rin/byu-rin/assets/130144220/d4f6555f-3295-4263-afdb-fe0e9b8d8e4d">
+<img width="110" alt="Screenshot 2024-05-05 at 9 33 27 PM" src="https://github.com/byu-rin/byu-rin/assets/130144220/bac63b62-81d3-4c71-b9ba-95b1116a146a">
 
-<img width="215" alt="Screenshot 2024-05-05 at 9 33 00 PM" src="https://github.com/byu-rin/byu-rin/assets/130144220/d4f6555f-3295-4263-afdb-fe0e9b8d8e4d">
-<img width="215" alt="Screenshot 2024-05-05 at 9 33 27 PM" src="https://github.com/byu-rin/byu-rin/assets/130144220/bac63b62-81d3-4c71-b9ba-95b1116a146a">
+### 기술
+> Retrofit2 & OkHttp3<br/>
+> Gson<br/>
+> Coroutine...[더보기](https://github.com/byu-rin/Miseya)
 
 <br/>
 
