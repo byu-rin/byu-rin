@@ -123,6 +123,7 @@
 <img width="110" alt="Screenshot 2024-05-05 at 9 33 27 PM" src="https://github.com/byu-rin/byu-rin/assets/130144220/bac63b62-81d3-4c71-b9ba-95b1116a146a">
 
 ### 기술
+> Jetpack Compose<br/>
 > Retrofit2 & OkHttp3<br/>
 > Gson<br/>
 > Coroutine...[더보기](https://github.com/byu-rin/Miseya)
