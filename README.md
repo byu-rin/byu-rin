@@ -13,6 +13,14 @@
 
 <br/><br/>
 
+## Contact & Channel
+
+**📧 simon3397@gmail.com**<br/>
+**📖** https://velog.io/@simon3397<br/>
+
+<br/><br/>
+
+
 # 📝 기술
 
 <br/>
@@ -119,3 +127,14 @@
 ### 기술
 > Glide<br/>
 > Firebase...[더보기](https://github.com/byu-rin/MBTI_Talk)
+
+<br/><br/>
+
+## Contact & Channel
+
+**📧 simon3397@gmail.com**<br/>
+**📖** https://velog.io/@simon3397<br/>
+
+<br/><br/>
+
+
