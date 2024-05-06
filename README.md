@@ -21,7 +21,6 @@
   - Android Studio
   - kotlin
   - macOS
-  - Gradle
 
 <br/>
 
@@ -72,13 +71,6 @@
 
 ## 🤖 Code
   - Kapt
-  - KSP
-
-<br/>
-
-## 🤖 배포 및 CI/CD
-  - JUnit
-  - Github Action
 
 <br/><br/>
 
