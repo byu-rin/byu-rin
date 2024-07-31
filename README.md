@@ -4,12 +4,12 @@
 =========================
 
 ## 긍정적인 성격을 바탕으로, 평화를 추구합니다.
-> 미니멀한 침대, 맥시멀한 경험을 지향하며 스트레스는 요가로 해소합니다.<br> 밝고 낙천적인 제 성격이 편안한 영향을 미쳤으면 좋겠어요.
+> 긍정적인 성격과 평화를 추구하는 마음으로, 팀원들과 함께 일할 때 항상 밝은 에너지를 전달하려고 노력합니다.<br/> 미니멀한 침대에서 맥시멀한 경험을 꿈꾸며, 요가로 스트레스를 해소하는 것을 좋아합니다.<br/> 밝고 낙천적인 성격이 팀에 편안한 영향을 미쳤으면 좋겠습니다.
 
 <br/>
 
 ## 배움을 나누고 함께 성장합니다.
-> 비전공자 출신입니다. 경험과 지식에 갈증을 느끼는 상태입니다. <br/>새로운 지식을 통해 성장하며 보람을 느끼고, 열정적인 분위기를 선호합니다.<br/> 코드 리뷰 환영해요!!
+> 비전공자로서 경험과 지식에 항상 갈증을 느끼며, 새로운 것을 배우고 성장하는 데 큰 보람을 느낍니다.<br/> 열정적인 분위기를 선호하고, 코드 리뷰를 통해 함께 배우고 성장하는 것을 좋아합니다.<br/> 사용자 경험과 효율적인 방식을 중요시하며, 리서치 단계에서 연관된 서비스를 모두 사용해보고 경험을 기록하는 습관이 있습니다.
 
 <br/>
 
@@ -33,6 +33,7 @@
 ## 🤖 언어 및 개발환경
   - Android Studio
   - kotlin
+  - Windows
   - macOS
 
 <br/>
@@ -40,11 +41,9 @@
 ## 🤖 아키텍쳐 및 디자인 패턴
 
   - Coroutine
-  - Hilt
-  - KTX
   - DataBinding
   - MVP (Model-View-Presenter)
-  - MVVM (Model-View_ViewModel)
+  - MVVM (Model-View-ViewModel)
   - MVI (Model-View-Intent) (학습중)
   - Clean Architecture (학습중)
 
@@ -52,7 +51,7 @@
 
 ## 🤖 UI/UX 컴포넌트
   - Material Design3
-  - Jetpack Compose (학습중)
+  - Jetpack Compose
 
 <br/>
 
@@ -74,16 +73,7 @@
 ## 🤖 이미지 및 리소스 관리
   - Glide
   - Coil
-
-<br/>
-
-## 🤖 테스팅
-  - Espresso (학습중)
-
-<br/>
-
-## 🤖 Code
-  - Kapt
+  - Hilt
 
 <br/><br/>
 
@@ -95,7 +85,7 @@
 
 ## 1. [Miseya](https://github.com/byu-rin/Miseya)
 > ### 선택 지역의 미세먼지 수치, 등급 알림 서비스
-> 23.09 ~ 23.09 (리팩토링 중)<br/>
+> 23.09 ~ 23.09 (24.07 compose 로 리팩토링 완료)<br/>
 
 <img width="110" alt="Screenshot 2024-05-05 at 9 33 00 PM" src="https://github.com/byu-rin/byu-rin/assets/130144220/d4f6555f-3295-4263-afdb-fe0e9b8d8e4d">
 <img width="110" alt="Screenshot 2024-05-05 at 9 33 27 PM" src="https://github.com/byu-rin/byu-rin/assets/130144220/bac63b62-81d3-4c71-b9ba-95b1116a146a">
