@@ -1,27 +1,14 @@
 📜 LEE DO YEON 이도연
 =========================
 
-## Contact & Channel
+## 📝 Tech
+### 🤖 IDE
+  - Android Studio
+  - Visual Studio Code
 
-**📧 simon3397@gmail.com**<br/>
-**📖** https://velog.io/@simon3397<br/>
-
-<br/><br/>
-
-# 📝 기술
-
-<br/>
-
-## 🤖 언어 및 개발환경
-  - Android OS
-  - kotlin
-  - Java
-  - Python
-
-<br/>
-
-## 🤖 기술
+### 🤖 Skill
   - Jetpack Compose
+  - View
   - Dagger/Dagger-Hilt
   - OkHttp, Retrofit2
   - Coroutine + Flow
@@ -33,51 +20,62 @@
     
 <br/><br/>
 
-# 📝 Projects
+## 📝 Projects
 
-## 1. [Miseya](https://github.com/byu-rin/Miseya)
-> ### 선택 지역의 미세먼지 수치, 등급 알림 서비스
+### 1. [Artwork Mobile Curator App](https://github.com/byu-rin/Search_Image/tree/view)
+> ### 개발·디자인·기획 | 웹·안드로이드 | 중개ㆍ매칭플랫폼, 기타(웹사이트 구축), CRM고객관리
+> 25.05 ~ <br/>
+
+#### Tech
+> ML Kit + androidX Camera (QR Scan)
+> UI State Holder + Channel
+> TextWatcher
+> TTS
+> JUnit5> Gradle Version Catalog
+<br/><br/>
+
+### 1. [Artwork Mobile Curator App Service](https://github.com/byu-rin/Search_Image/tree/view)
+> ### 작품 모바일 큐레이팅 서비스 (상품 등록, 어드민, 대시보드, 웹앱)
 > 23.09 ~ 23.09 (24.07 compose 로 리팩토링 완료)<br/>
 
-<img width="110" alt="Screenshot 2024-05-05 at 9 33 00 PM" src="https://github.com/byu-rin/byu-rin/assets/130144220/d4f6555f-3295-4263-afdb-fe0e9b8d8e4d">
-<img width="110" alt="Screenshot 2024-05-05 at 9 33 27 PM" src="https://github.com/byu-rin/byu-rin/assets/130144220/bac63b62-81d3-4c71-b9ba-95b1116a146a">
+#### Tech
+> ML Kit + androidX Camera (QR Scan)
+> UI State Holder + Channel
+> TextWatcher
+> TTS
+> JUnit5> Gradle Version Catalog
+<br/><br/>
 
-### 기술
+
+### 1. [Check Air Quality App](https://github.com/byu-rin/Miseya)
+> ### 위치 기반 미세먼지 조회 서비스
+> 23.09 ~ 23.09<br/>
+
+#### Tech
 > Jetpack Compose<br/>
 > Retrofit2 & OkHttp3<br/>
-> Gson<br/>
-> Coroutine...[더보기](https://github.com/byu-rin/Miseya)
+> Location Provider (GPS async)
+> MockK, JUnit
+> Material3 Expressive
+> Coroutine
+
+###
 
 <br/><br/>
 
-## 2. [pinpinday](https://github.com/byu-rin/pinpin_day) 
-> ### 지도 기반 일정 관리 서비스
-> 24.03 ~ (개발중)
-
-<img width="105" alt="Screenshot 2024-05-05 at 9 33 57 PM" src="https://github.com/byu-rin/pinpin_day/assets/130144220/976d53bb-e7c8-4820-8abc-50502e7faf83">
-<img width="105" alt="Screenshot 2024-05-05 at 9 33 57 PM" src="https://github.com/byu-rin/pinpin_day/assets/130144220/8997979e-1cd9-4420-8921-a17bf07e2aea">
-<img width="105" alt="Screenshot 2024-05-05 at 9 33 57 PM" src="https://github.com/byu-rin/pinpin_day/assets/130144220/42307aa9-62dc-48d3-9246-cf8a5d138de1">
-
-### 기술
-> Naver Maps API<br/>
-> Foursquare API<br/>
-> Observer Pattern...[더보기](https://github.com/byu-rin/pinpin_day)
-
-<br/><br/>
-
-## 3. [MBTI 톡](https://github.com/byu-rin/MBTI_Talk)
-> ### MBTI 기반 커뮤니케이션 서비스
+### 3. [MBTI Talk App](https://github.com/byu-rin/MBTI_Talk)
+> ### MBTI 기반 소셜 커뮤니케이션 서비스
 > 23.10 ~ 23.11 (6주) / 5명
 
 <img alt="Screenshot 2024-05-05 at 9 33 57 PM" src="https://github.com/6pleasant-MBTITalk/MBTI_Talk/assets/139088072/ccbd3536-33ec-4538-98dd-f000a962f044">
 
-### 기술
+#### 기술
 > Glide<br/>
-> Firebase...[더보기](https://github.com/byu-rin/MBTI_Talk)
+> Glide<br/>
 
 <br/><br/>
 
-## Contact & Channel
+### Contact & Channel
 
 **📧 simon3397@gmail.com**<br/>
 **📖** https://velog.io/@simon3397<br/>
