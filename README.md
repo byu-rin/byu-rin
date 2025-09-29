@@ -3,21 +3,6 @@
 📜 상상하는 안드로이드 개발자 이도연입니다.
 =========================
 
-## 긍정적인 성격을 바탕으로, 평화를 추구합니다.
-> 긍정적인 성격과 평화를 추구하는 마음으로, 팀원들과 함께 일할 때 항상 밝은 에너지를 전달하려고 노력합니다.<br/> 미니멀리즘을 중시하며, '머리는 차갑게 가슴은 뜨겁게' 를 되뇌이며 살아갑니다.
-
-<br/>
-
-## 배움을 나누고 함께 성장합니다.
-> 비전공자로서 경험과 지식에 항상 갈증을 느끼며, 새로운 것을 배우고 성장하는 데 큰 보람을 느낍니다.<br/> 열정적인 분위기를 선호하고, 코드 리뷰를 통해 함께 배우고 성장하는 것을 좋아합니다.<br/> 사용자 경험과 효율적인 방식을 중요시하며, 리서치 단계에서 연관된 서비스를 모두 사용해보고 경험을 기록하는 습관이 있습니다.
-
-<br/>
-
-## 사용자 경험과 효율적인 방식을 중요시합니다.
-> 리서치 단계에서, 연관된 서비스를 모두 사용 후 경험을 기록합니다.<br/>기존에 불편했던 지도 서비스를 개발한 경험이 있으며, 현재까지 개발 진행 중입니다.<br/>깊게 이해하기 위해 정보처리기사를 공부중입니다. 
-
-<br/><br/>
-
 ## Contact & Channel
 
 **📧 simon3397@gmail.com**<br/>
@@ -31,52 +16,21 @@
 <br/>
 
 ## 🤖 언어 및 개발환경
-  - Android Studio
+  - Android OS
   - kotlin
-  - Windows
-  - macOS
+  - Java
+  - Python
 
 <br/>
 
-## 🤖 아키텍쳐 및 디자인 패턴
-
-  - Coroutine
-  - DataBinding
-  - MVP (Model-View-Presenter)
-  - MVVM (Model-View-ViewModel)
-  - SOLID 원칙
-  - MVI (Model-View-Intent) (학습중)
-  - Clean Architecture (학습중)
-
-<br/>
-
-## 🤖 UI/UX 컴포넌트
-  - Material3
+## 🤖 기술
   - Jetpack Compose
-
-<br/>
-
-## 🤖 네트워킹 및 데이터 통신
-  - Retrofit2
-  - OkHttp3
-  - Gson
-
-<br/>
-
-## 🤖 데이터 저장 및 관리
-  - Room
-  - SharedPreferences
-  - DataStore
-  - Firebase Firestore / Realtime Database
-
-<br/>
-
-## 🤖 이미지 및 리소스 관리
-  - Glide
-  - Coil
-  - Hilt
-
-<br/><br/>
+  - Dagger/Dagger-Hilt
+  - OkHttp, Retrofit2
+  - Coroutine + Flow
+  - JUnit
+  - ktlint, spotless
+  - Git-Flow
 
 ------------
     
