@@ -59,7 +59,7 @@
 > google login<br/>
 > firebase<br/>
 > Material Design<br/>
-> viewPater2<br/>
+> viewPager2<br/>
 > view binding
 ------------
 
